@@ -1,0 +1,10 @@
+Queries Description:
+1. Determine the names of employees whose office is in the USA.
+2. Determine the names of the customers whose order's status is 'In Process'
+3. Determine the names of the employees that work in Boston.
+4. Determine the amount in-stock of a product when a product was ordered and how much of that product was ordered.
+5. Determine the orders that have the same payment date as the order date.
+6. Find the contact information (contact name and phone number) for check id : LL427009.
+7. Compare the buyPrice, MSRP, and PriceEach for every product.
+8. Show the customer names that ordered on 2004-11-24.
+9. Show what products shipped on a 2005-03-06.
